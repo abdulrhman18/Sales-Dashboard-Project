@@ -14,7 +14,7 @@ This interactive **Power BI Dashboard** provides a deep-dive analysis of global 
 The dashboard is structured into three primary analytical views:
 
 ### 1. Executive Summary
-* **Revenue Growth:** Performance tracking from 2012–2014, highlighting a peak growth period in late 2013.
+* **Revenue Growth:** Performance tracking from 2011–2014, highlighting a peak growth period in late 2013.
 * **Product Dominance:** **Bikes** account for over **80% ($24.23M)** of total revenue.
 * **Geographic Leaders:** **Canada** leads all territories with $10.6M in sales, followed by the **Northwest** region ($6.2M).
 
